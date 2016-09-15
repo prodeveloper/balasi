@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.dance-studio.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+.dance-studio.cmsmasters.net	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	089a87ca0d062d6370366c7b4c95d9e9
+.dance-studio.cmsmasters.net	TRUE	/	FALSE	1999999999	wp_woocommerce_session_2571b10e50e1f49b90a8035e48395cbd	c57639fa7f8a0cb02cdc1ff377f08a31%7C%7C1471612450%7C%7C1471608850%7C%7Cdcb7b0b9ff23c02bc158303ada21f27b
+
